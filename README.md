@@ -1,5 +1,5 @@
 # 2048 Android
-This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
+This game has published in google play store. now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
 
 Here's the published game on store: https://cafebazaar.ir/app/com.gameditors.a2048
 
@@ -10,8 +10,6 @@ This project contains:
 
 Hints:
 - We keeped all tokens from Google Play Games Service and Adad because of test purposes, you must replace your own.
-
-you can find me on social media: <a href="https://www.instagram.com/sharepointer.ir/">instagram</a> or <a href="https://www.linkedin.com/in/mohammad-fathi/">LinkedIn</a>
 
 <b>Demo</b><br>
 ![Demo gameplay](https://github.com/GamEditor/2048-Android/blob/master/2048-Android.gif?raw=true)
