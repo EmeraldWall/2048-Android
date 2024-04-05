@@ -4,10 +4,10 @@ This is a fork of a game already published in Play store whose source code was m
 This project contains:
 - This game is using Google Play Games services. it has leaderboard and achievements. you can keep it or not, it's related to you.
 - There's a library named Adad, it's an advertisement service in Iran. if you don't need it, delete it from lib folder and clean it from codes.
-- English and Persian languages are supported.
+- English language is supported.
 
 Hints:
-- We keeped all tokens from Google Play Games Service and Adad because of test purposes, you must replace your own.
+- We kept all tokens from Google Play Games Service. You are advices to use your own.
 
-<b>Demo</b><br>
+<b>Gameplay loop</b><br>
 ![Demo gameplay](https://github.com/GamEditor/2048-Android/blob/master/2048-Android.gif?raw=true)
